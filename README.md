@@ -1,0 +1,2 @@
+# NgTranslateBasic
+NgTranslate Basic Example
